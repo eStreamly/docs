@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1727962035396,
-  "index": "/estreamly-docs/V1/index.html",
+  "timestamp": 1727972318653,
+  "index": "/docs/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/estreamly-docs/V1/209.2940bab5e20ab429.js",
-        "/estreamly-docs/V1/380.b0f928dec71a6811.js",
-        "/estreamly-docs/V1/favicon.ico",
-        "/estreamly-docs/V1/index.html",
-        "/estreamly-docs/V1/main.ed00b7784b3fabea.js",
-        "/estreamly-docs/V1/manifest.webmanifest",
-        "/estreamly-docs/V1/polyfills.823615ce588ea3e6.js",
-        "/estreamly-docs/V1/runtime.6219c5b1ea15a102.js",
-        "/estreamly-docs/V1/styles.acd7a0fdc3e2664f.css"
+        "/docs/380.b0f928dec71a6811.js",
+        "/docs/732.1d5a29477ce4507a.js",
+        "/docs/favicon.ico",
+        "/docs/index.html",
+        "/docs/main.0004d2fc75b2d721.js",
+        "/docs/manifest.webmanifest",
+        "/docs/polyfills.823615ce588ea3e6.js",
+        "/docs/runtime.c8f25f8b92161129.js",
+        "/docs/styles.3e4aa136b3762912.css"
       ],
       "patterns": []
     },
@@ -31,39 +31,39 @@
         "ignoreVary": true
       },
       "urls": [
-        "/estreamly-docs/V1/assets/icons/icon-128x128.png",
-        "/estreamly-docs/V1/assets/icons/icon-144x144.png",
-        "/estreamly-docs/V1/assets/icons/icon-152x152.png",
-        "/estreamly-docs/V1/assets/icons/icon-192x192.png",
-        "/estreamly-docs/V1/assets/icons/icon-384x384.png",
-        "/estreamly-docs/V1/assets/icons/icon-512x512.png",
-        "/estreamly-docs/V1/assets/icons/icon-72x72.png",
-        "/estreamly-docs/V1/assets/icons/icon-96x96.png",
-        "/estreamly-docs/V1/assets/logo.png"
+        "/docs/assets/icons/icon-128x128.png",
+        "/docs/assets/icons/icon-144x144.png",
+        "/docs/assets/icons/icon-152x152.png",
+        "/docs/assets/icons/icon-192x192.png",
+        "/docs/assets/icons/icon-384x384.png",
+        "/docs/assets/icons/icon-512x512.png",
+        "/docs/assets/icons/icon-72x72.png",
+        "/docs/assets/icons/icon-96x96.png",
+        "/docs/assets/logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/estreamly-docs/V1/209.2940bab5e20ab429.js": "e5eb8d8f2b10b89a4c006eb02a704abc22ad8899",
-    "/estreamly-docs/V1/380.b0f928dec71a6811.js": "f8a9f7db61e00ef1a6408bbc9e21dc110a57b8a6",
-    "/estreamly-docs/V1/assets/icons/icon-128x128.png": "e94e45e935f3fcda71d9878cb9fad322c81b43f6",
-    "/estreamly-docs/V1/assets/icons/icon-144x144.png": "0381e0840cb97650d198e8b9b8ffb43002158cb8",
-    "/estreamly-docs/V1/assets/icons/icon-152x152.png": "63d55c477b675b28f73ac0bef7770cb25f3edbc6",
-    "/estreamly-docs/V1/assets/icons/icon-192x192.png": "16f00b1867def48d68aa8a76250d48da75ceb8f0",
-    "/estreamly-docs/V1/assets/icons/icon-384x384.png": "d35225425cd1e484baf70a98576fde1183d83a9a",
-    "/estreamly-docs/V1/assets/icons/icon-512x512.png": "04386892eaeeff649eb58e29699f5b0b738ac06c",
-    "/estreamly-docs/V1/assets/icons/icon-72x72.png": "472bf6d9b003be65829849453a34420451c3b40c",
-    "/estreamly-docs/V1/assets/icons/icon-96x96.png": "ec8b6859727c5cefbfeef808bdebac9cbad159f8",
-    "/estreamly-docs/V1/assets/logo.png": "472bf6d9b003be65829849453a34420451c3b40c",
-    "/estreamly-docs/V1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/estreamly-docs/V1/index.html": "f0cda070f53229a3bc12ceeec09940f5c5fbce75",
-    "/estreamly-docs/V1/main.ed00b7784b3fabea.js": "8969b02ad373c9eec6fc2de8ac619cc1dfe1f4ed",
-    "/estreamly-docs/V1/manifest.webmanifest": "1dfc4ea8cc9149df919c5d780e1abe909742c52a",
-    "/estreamly-docs/V1/polyfills.823615ce588ea3e6.js": "20d2554215250bda64952dc01f7fb32c9a2f5b52",
-    "/estreamly-docs/V1/runtime.6219c5b1ea15a102.js": "24dddbd6e823326db46755824e61a0e0d23fc84f",
-    "/estreamly-docs/V1/styles.acd7a0fdc3e2664f.css": "e7a67c71866e25f75888d69ab73de3fbe9a37e1b"
+    "/docs/380.b0f928dec71a6811.js": "f8a9f7db61e00ef1a6408bbc9e21dc110a57b8a6",
+    "/docs/732.1d5a29477ce4507a.js": "b1a86686495e90b7b3be806592a9a599c940fc5b",
+    "/docs/assets/icons/icon-128x128.png": "e94e45e935f3fcda71d9878cb9fad322c81b43f6",
+    "/docs/assets/icons/icon-144x144.png": "0381e0840cb97650d198e8b9b8ffb43002158cb8",
+    "/docs/assets/icons/icon-152x152.png": "63d55c477b675b28f73ac0bef7770cb25f3edbc6",
+    "/docs/assets/icons/icon-192x192.png": "16f00b1867def48d68aa8a76250d48da75ceb8f0",
+    "/docs/assets/icons/icon-384x384.png": "d35225425cd1e484baf70a98576fde1183d83a9a",
+    "/docs/assets/icons/icon-512x512.png": "04386892eaeeff649eb58e29699f5b0b738ac06c",
+    "/docs/assets/icons/icon-72x72.png": "472bf6d9b003be65829849453a34420451c3b40c",
+    "/docs/assets/icons/icon-96x96.png": "ec8b6859727c5cefbfeef808bdebac9cbad159f8",
+    "/docs/assets/logo.png": "472bf6d9b003be65829849453a34420451c3b40c",
+    "/docs/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/docs/index.html": "ad24e3a59a808b05ff2d69c1d6f0b4911abf9e9f",
+    "/docs/main.0004d2fc75b2d721.js": "1bcef070597b444c29043b311297093b7e95f149",
+    "/docs/manifest.webmanifest": "1dfc4ea8cc9149df919c5d780e1abe909742c52a",
+    "/docs/polyfills.823615ce588ea3e6.js": "20d2554215250bda64952dc01f7fb32c9a2f5b52",
+    "/docs/runtime.c8f25f8b92161129.js": "d9d9a01bd9e5127e52fa73fdbbad5e83cee2e486",
+    "/docs/styles.3e4aa136b3762912.css": "0f8aa1e08b8c726707f2681badd91f51e61fe88a"
   },
   "navigationUrls": [
     {
