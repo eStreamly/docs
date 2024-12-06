@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1731356622109,
+  "timestamp": 1733503883501,
   "index": "/docs/index.html",
   "assetGroups": [
     {
@@ -20,10 +20,10 @@
         "/docs/common.111d114cb133d7da.js",
         "/docs/favicon.ico",
         "/docs/index.html",
-        "/docs/main.fc8f3349c62c6365.js",
+        "/docs/main.33cca98251427d8e.js",
         "/docs/manifest.webmanifest",
         "/docs/polyfills.823615ce588ea3e6.js",
-        "/docs/runtime.9103a38e88945fcd.js",
+        "/docs/runtime.873c0ae650f8dab4.js",
         "/docs/styles.6bfc7f2331363a8b.css"
       ],
       "patterns": []
@@ -103,7 +103,13 @@
         "/docs/assets/images/userparticipationanalytics.png",
         "/docs/assets/images/videoembed.png",
         "/docs/assets/images/videoquality.png",
-        "/docs/assets/logo.png"
+        "/docs/assets/logo.png",
+        "/docs/assets/logos/chrome.svg",
+        "/docs/assets/logos/edge.svg",
+        "/docs/assets/logos/firefox.svg",
+        "/docs/assets/logos/opera.svg",
+        "/docs/assets/logos/safari.svg",
+        "/docs/assets/logos/samsung-internet.svg"
       ],
       "patterns": []
     }
@@ -184,13 +190,19 @@
     "/docs/assets/images/videoembed.png": "7a10e1f293dff5b2e96b3c161fe22358b19c12c3",
     "/docs/assets/images/videoquality.png": "feb77b077d4b8e29e4e13467176099e35426e80b",
     "/docs/assets/logo.png": "472bf6d9b003be65829849453a34420451c3b40c",
+    "/docs/assets/logos/chrome.svg": "32cea7d9e95a7afdae790b2a8378da18c1579f97",
+    "/docs/assets/logos/edge.svg": "61962a92a2a427de425d46ab2110d23c44ee80fc",
+    "/docs/assets/logos/firefox.svg": "bd2e801bb1327b390c895a9d64cd8ff41d95619f",
+    "/docs/assets/logos/opera.svg": "0ebb17f72a9b46cf717827aa967d4b99c5d60cdc",
+    "/docs/assets/logos/safari.svg": "4530c600b06773dfabbcceecf18f7376a5751f48",
+    "/docs/assets/logos/samsung-internet.svg": "20d95c256ed0aa78e37dd8c4b6c6093495631367",
     "/docs/common.111d114cb133d7da.js": "ab84660d35e5f82d0b22d648c44bdf88d594b207",
     "/docs/favicon.ico": "9e418d18baf2a2371d35338fbb6cae3d55930134",
-    "/docs/index.html": "924370dbeaedc0ebf1a0bb7309b5437c4a4caa17",
-    "/docs/main.fc8f3349c62c6365.js": "d1d73f18f053612fdde95b1705796dea005fd1bd",
+    "/docs/index.html": "8c8027e82fc850cd6cc0c0ea7c1189fefe8fb4c7",
+    "/docs/main.33cca98251427d8e.js": "64768c9f41f620e9d8950cb836b7539befa7a35f",
     "/docs/manifest.webmanifest": "1dfc4ea8cc9149df919c5d780e1abe909742c52a",
     "/docs/polyfills.823615ce588ea3e6.js": "20d2554215250bda64952dc01f7fb32c9a2f5b52",
-    "/docs/runtime.9103a38e88945fcd.js": "60bcce9accaa502d41356acd904875753aa2546b",
+    "/docs/runtime.873c0ae650f8dab4.js": "a090783ee6e3d6e3bfd24232b9ea0a4c7c48c5d9",
     "/docs/styles.6bfc7f2331363a8b.css": "67e20915843017e2bf5f68edc14b96b437205e1f"
   },
   "navigationUrls": [
